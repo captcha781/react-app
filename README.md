@@ -1,2 +1,2 @@
-# My react app for web dev task-2 
+# My react app for task-2 
 
